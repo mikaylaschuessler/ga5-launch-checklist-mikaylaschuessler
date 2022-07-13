@@ -35,5 +35,4 @@ let pilot = pilotInput.value;
        
     })
    
-})
 });
